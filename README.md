@@ -1,8 +1,4 @@
-Perfetto, ecco una versione **più tecnica e didattica** del tuo `README.md`, pensata per essere chiara sia a sviluppatori esperti sia a studenti o professionisti che vogliono approfondire le funzionalità dell'app **Jarvis**:
-
----
-
-### 📘 `README.md` – *Jarvis: Assistente AI per Analisi Dati e Forecast*
+*Jarvis: Assistente AI per Analisi Dati e Forecast*
 
 ````markdown
 # 🤖 Jarvis – Assistente AI Interattivo per Analisi Dati e Previsioni
